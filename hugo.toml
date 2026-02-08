@@ -1,0 +1,90 @@
+baseURL = "https://syntaxlegal.in/"
+languageCode = "en-us"
+title = "SyntaxLegal"
+theme = "PaperMod"
+
+[params]
+  homeTitle = "SyntaxLegal"
+  ShowToc = true
+
+[params.homeInfoParams]
+  Title = "Technical Precision in Legal Compliance"
+  Content = """
+**Bridging the gap between Software Architecture and Indian Regulatory Frameworks.**
+
+Syntax Legal is a specialized consultancy operating at the intersection of technology and law. We assist organizations in navigating the complexities of the **Digital Personal Data Protection (DPDP) Act, 2023**, the **Information Technology Act**, and the **Bharatiya Sakshya Adhiniyam (BSA)**.
+
+We do not merely interpret the law; we engineer compliance into your systems.
+
+---
+
+### // Core Competencies
+
+#### **01. Digital Forensics & Evidence Integrity**
+In modern litigation, data is the primary witness.
+* **Forensic Auditing:** We analyze server logs, API histories, and database timestamps to establish a verifiable chain of custody.
+* **Section 65B Certification:** We prepare technical annexures and hash-verified reports to ensure electronic evidence is admissible in Indian courts.
+* **Source Code Review:** We conduct intellectual property audits to detect license violations and code theft.
+
+#### **02. Privacy Engineering & Architecture**
+Compliance cannot be solved by policy documents alone; it requires architectural enforcement.
+* **Data Residency:** Ensuring PII (Personally Identifiable Information) storage complies with Indian localization norms.
+* **Right to Erasure:** Architecting automated deletion workflows to satisfy data principal requests.
+* **Security Standards:** Aligning infrastructure with CERT-In guidelines and ISO 27001 standards.
+
+#### **03. Strategic Litigation Advisory**
+*Guided by the Chambers of [Father-in-Law's Name], District & Sessions Judge (Retd.)*
+
+Technical findings require legal strategy. Through our strategic partnership, we offer high-level advisory for complex litigation.
+* **Scope:** White Collar Crime, Cyber Litigation, and Commercial Arbitration.
+* **Benefit:** 30+ years of judicial experience applied to your defense strategy.
+
+---
+
+### // Domain Expertise
+
+We possess dual fluency in both technical and legal domains, ensuring no detail is lost in translation.
+
+| **Technical Domain** | **Legal Domain** |
+| :--- | :--- |
+| **Infrastructure:** AWS, Azure, Docker | **Criminal Law:** BNS, BSA, BNSS |
+| **Languages:** Python, Node.js, Solidity | **Data Law:** DPDP Act, IT Act 2000 |
+| **Security:** SHA-256, RSA Encryption | **Corporate:** Contract Act, IPR |
+
+---
+
+### // Engagement Protocols
+
+**For Corporate & Legal Inquiries:**
+We invite General Counsels, CTOs, and Law Firms to discuss their technical compliance needs.
+
+[ > View Leadership Profile ](/about) &nbsp;&nbsp; [ > Review Services ](/services)
+"""
+  
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 15
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+[[menu.footer]]
+    identifier = "disclaimer"
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 10
+[[menu.footer]]
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 20

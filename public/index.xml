@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Syntax Legal on SyntaxLegal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Syntax Legal on SyntaxLegal</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legal Disclaimer</title>
+      <link>http://localhost:1313/disclaimer/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/disclaimer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Last Updated:&lt;/strong&gt; February 8, 2026&lt;/p&gt;
+&lt;h3 id=&#34;not-a-law-firm&#34;&gt;Not a Law Firm&lt;/h3&gt;
+&lt;p&gt;Syntax Legal is a &lt;strong&gt;Techno-Legal Consultancy&lt;/strong&gt;. We provide technical auditing, forensic analysis, and compliance architecture.
+We are &lt;strong&gt;not&lt;/strong&gt; a law firm and do not provide legal representation in court.&lt;/p&gt;
+&lt;h3 id=&#34;no-attorney-client-relationship&#34;&gt;No Attorney-Client Relationship&lt;/h3&gt;
+&lt;p&gt;Accessing this website, reading our documentation, or sending us an email does &lt;strong&gt;not&lt;/strong&gt; create an attorney-client relationship. All &amp;ldquo;Advice&amp;rdquo; provided on this site is for educational and architectural purposes only.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Protocol</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Last Updated:&lt;/strong&gt; February 8, 2026&lt;/p&gt;
+&lt;h3 id=&#34;1-the-philosophy&#34;&gt;1. The Philosophy&lt;/h3&gt;
+&lt;p&gt;We are Privacy Engineers. We believe data is a liability, not an asset.
+Therefore, we collect &lt;strong&gt;zero&lt;/strong&gt; unnecessary data.&lt;/p&gt;
+&lt;h3 id=&#34;2-the-stack&#34;&gt;2. The Stack&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Analytics:&lt;/strong&gt; We do not use Google Analytics. We use server-side logs that are anonymized.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cookies:&lt;/strong&gt; This site creates 0 cookies. We do not track you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hosting:&lt;/strong&gt; This site is hosted on GitHub Pages. Their privacy policy applies to the infrastructure layer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-your-rights-dpdp-act-2023&#34;&gt;3. Your Rights (DPDP Act 2023)&lt;/h3&gt;
+&lt;p&gt;Even though we don&amp;rsquo;t know who you are, you have the right to ask.
+Email &lt;code&gt;privacy@syntaxlegal.in&lt;/code&gt; to request a data audit of our communications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Evidence in India: Navigating the Shift from IEA to BSA</title>
+      <link>http://localhost:1313/posts/digital-evidence-in-india/</link>
+      <pubDate>Sun, 23 Feb 2025 09:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/digital-evidence-in-india/</guid>
+      <description>&lt;p&gt;In an era where technology is deeply embedded in our daily lives, from social media interactions to financial transactions, the footprint we leave behind is increasingly digital. Consequently, &amp;ldquo;electronic&amp;rdquo; or &amp;ldquo;digital&amp;rdquo; evidence has become the backbone of modern criminal and civil investigations. With the introduction of the &lt;em&gt;Bharatiya Sakshya Adhiniyam, 2023&lt;/em&gt; (BSA), the landscape of how this evidence is appreciated and admitted in Indian courts is undergoing a significant transformation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Core Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>Technical Compliance, Digital Forensics, and Strategic Advisory.</description>
+    </item>
+  </channel>
+</rss>

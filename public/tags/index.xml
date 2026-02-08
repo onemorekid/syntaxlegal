@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on SyntaxLegal</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on SyntaxLegal</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2025 09:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bharatiya Sakshya Adhiniyam</title>
+      <link>http://localhost:1313/tags/bharatiya-sakshya-adhiniyam/</link>
+      <pubDate>Sun, 23 Feb 2025 09:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/bharatiya-sakshya-adhiniyam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Law</title>
+      <link>http://localhost:1313/tags/cyber-law/</link>
+      <pubDate>Sun, 23 Feb 2025 09:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cyber-law/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Evidence</title>
+      <link>http://localhost:1313/tags/digital-evidence/</link>
+      <pubDate>Sun, 23 Feb 2025 09:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/digital-evidence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forensics</title>
+      <link>http://localhost:1313/tags/forensics/</link>
+      <pubDate>Sun, 23 Feb 2025 09:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/forensics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Law</title>
+      <link>http://localhost:1313/tags/tech-law/</link>
+      <pubDate>Sun, 23 Feb 2025 09:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/tech-law/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
